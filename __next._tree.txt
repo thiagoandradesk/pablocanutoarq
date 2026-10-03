@@ -1,0 +1,3 @@
+:HL["/_next/static/chunks/0t15kpa6sg8rd.css","style"]
+:HL["/assets/sala-1.webp","image",{"imageSrcSet":"/assets/sala-1-800.webp 800w, /assets/sala-1.webp 1600w","imageSizes":"(max-width:700px) 100vw, 70vw","fetchPriority":"high"}]
+0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}},"staleTime":300,"buildId":"GjxkZsAEz2Jfu_O5XOY4u"}
